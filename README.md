@@ -1,1 +1,2 @@
-# space-web
+# Space Web
+Project made for Uni
